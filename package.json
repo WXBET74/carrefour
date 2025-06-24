@@ -1,0 +1,16 @@
+{
+  "name": "carrefour-drive-bot",
+  "version": "1.0.0",
+  "description": "Bot Carrefour avec Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^19.11.1"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
